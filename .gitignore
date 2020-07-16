@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/build
+/.idea
+/build/cucumber.json
+/src/main/java/demo/driver/
